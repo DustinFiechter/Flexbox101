@@ -1,0 +1,56 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+
+    /* gap: 10px 30px; */
+    row-gap: 10px;
+    column-gap: 30px;
+
+    padding: 15px;
+
+    width: 570px;
+    height: 260px;
+
+    resize: both;
+    overflow: auto;
+}
+
+/*Alle <button> Elemente innerhalb 
+  von Elementen mit der class 'flex-container'*/
+.flex-container button {
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    font-size: 20px;
+    height: 80px;
+    width: 120px;
+    max-height: 80px;
+    max-width: 120px;
+}
+
+#flex-container-properties {
+    font-family: Consolas;
+    line-height: 25px;
+    margin-top: 1px;
+}
+
+.header-positioning {
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: #067706;
+}
+
+.fake-link {
+    color: #0060df;
+    text-decoration: underline;
+}
+
+.fake-link:hover {
+    cursor: pointer;
+}

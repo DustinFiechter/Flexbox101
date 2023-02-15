@@ -1,4 +1,5 @@
 # Flexbox101
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/fiechdus/Flexbox101/blob/main/README.md)
 
 Dieses Projekt ist als sehr einfacher Überblick über die grundlegenden CSS-Flexbox-Funktionen gedacht. Der Code hinter diesem Repository wurde während einer Nachhilfestunde die ich gegeben habe erstellt und später überarbeitet.
 

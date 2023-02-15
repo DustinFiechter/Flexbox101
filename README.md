@@ -1,6 +1,5 @@
-[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/fiechdus/Flexbox101/blob/main/README.de.md)
-
 # Flexbox101
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/fiechdus/Flexbox101/blob/main/README.de.md)
 
 This project is intended as a very simple overview of basic CSS flexbox features. The code behind this repository was created during a tutoring session I gave and later revised.
 

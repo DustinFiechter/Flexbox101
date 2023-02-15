@@ -1,4 +1,4 @@
-[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/fiechdus/Flexbox101/main/README.de.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](https://github.com/fiechdus/Flexbox101/blob/main/README.de.md)
 
 # Flexbox101
 

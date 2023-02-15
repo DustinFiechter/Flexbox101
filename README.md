@@ -8,3 +8,10 @@ Because the project was created on the fly do not expect the javascript code to 
 
 ## Future of this project
 The purpose of this repository is to give beginners a relatively simple overview of the CSS flexbox feature. Thus, the project will although irregularly get more updates in the future. Feel free to open issues to this repository with recommondations or feedback of any kind. If you want to expand this overview yourself, feel free to do so since the repository is under the MIT License.
+
+## Getting started
+### As a beginner
+TODO: Setup process with screenshots on how to download the zip file.
+
+### As a developer / with git
+TODO: Setup process with guide on how to fork and clone the repository using git.
